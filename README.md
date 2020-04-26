@@ -1,3 +1,1 @@
-# js-thirty
-
-Created with CodeSandbox
+# React 30
